@@ -38,7 +38,7 @@ Except the regulars; git, Node, npm, you will need the following to work on and 
 1. Clone this repo and enter!
 
 ```bash
-   git clone https://github.com/andreas-assehn/waggle.git
+   git clone https://github.com/Keval-P21/waggle.git
    cd waggle
 ```
 
